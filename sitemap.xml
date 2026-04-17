@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://sgtuo.github.io/</loc>
-    <lastmod>2026-04-17T12:04:12+08:00</lastmod>
+    <lastmod>2026-04-17T17:30:06+08:00</lastmod>
   </url>
   <url>
-    <loc>https://sgtuo.github.io/post/zhe-shi-yi-pian-bo-ke-ce-shi/</loc>
-    <lastmod>2026-04-17T10:07:43+08:00</lastmod>
+    <loc>https://sgtuo.github.io/post/underwater-terrain-measurement-guide/</loc>
+    <lastmod>2026-04-17T17:30:01+08:00</lastmod>
+    <image:image>
+      <image:loc>https://sgtuo.github.io/post-images/underwater-terrain-measurement-guide.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://sgtuo.github.io/tags/</loc>
-    <lastmod>2026-04-17T12:04:12+08:00</lastmod>
+    <lastmod>2026-04-17T17:30:06+08:00</lastmod>
   </url>
   <url>
-    <loc>https://sgtuo.github.io/tag/test/</loc>
-    <lastmod>2026-04-17T12:04:12+08:00</lastmod>
+    <loc>https://sgtuo.github.io/tag/ce-hui/</loc>
+    <lastmod>2026-04-17T17:30:06+08:00</lastmod>
   </url>
   <url>
     <loc>https://sgtuo.github.io/archives/</loc>
-    <lastmod>2026-04-17T12:04:12+08:00</lastmod>
+    <lastmod>2026-04-17T17:30:06+08:00</lastmod>
   </url>
 </urlset>
