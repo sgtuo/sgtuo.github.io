@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gridea Pro</title>
+    <link>https://sgtuo.github.io/</link>
+    <description>Welcome to Gridea Pro</description>
+    <language>zh-cn</language>
+    <generator>Gridea Pro</generator>
+    <lastBuildDate>Fri, 17 Apr 2026 10:07:43 +0800</lastBuildDate>
+    <atom:link href="https://sgtuo.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <item>
+      <title>这是一篇博客测试</title>
+      <link>https://sgtuo.github.io/post/zhe-shi-yi-pian-bo-ke-ce-shi/</link>
+      <guid isPermaLink="true">https://sgtuo.github.io/post/zhe-shi-yi-pian-bo-ke-ce-shi/</guid>
+      <pubDate>Fri, 17 Apr 2026 10:07:43 +0800</pubDate>
+      <description><![CDATA[<p>测试</p>
+]]></description>
+      <category>test</category>
+    </item>
+  </channel>
+</rss>
